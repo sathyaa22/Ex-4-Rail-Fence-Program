@@ -1,4 +1,4 @@
-# Ex-4 Rail-Fence-Program
+# EX NO: 5 : Rail-Fence-Program
 
 # IMPLEMENTATION OF RAIL FENCE – ROW & COLUMN TRANSFORMATION TECHNIQUE
 
